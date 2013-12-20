@@ -1,0 +1,22 @@
+{
+    "name": "lowercase_demo",
+    "version": "0.0.1",
+    "description": "A demo package of lowercase",
+    "keywords":[
+        "demo","lowercase"
+    ],
+    "author": "Conan Zhang <bsspirit@gmail.com> (http://blog.fens.me)",
+    "license": "MIT",
+    "main": "lowercase.js",
+    "bin": {
+        "lowercase": "./bin/lowercase"
+    },
+    "repository": {
+        "type":"git",
+        "url":"xxx"
+    },
+    "engines": {
+        "node": ">=v0.10.5"
+    },
+    "readmeFilename": "README.md"
+}
